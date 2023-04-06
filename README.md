@@ -1,7 +1,7 @@
 # openvpn-ldap
 OpenVPN verify script which authenticates via certificate or LDAP.
 
-Usage
+## Usage
 
 Make the following additions to the server.conf file on the OpenVPN server.
 
